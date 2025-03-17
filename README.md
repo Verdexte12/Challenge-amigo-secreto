@@ -40,6 +40,3 @@ Haz click en <Code> y descargar  .zip, luego extrae los archivos dentro de una c
 
 Abre Visual Studio Code y abre la carpeta contenedora de los archivos
 
-## Autor
-
-| [<img src="https://avatars.githubusercontent.com/u/verdexte12"
