@@ -7,6 +7,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ##Índice
+
 *[Índice](#índice)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
